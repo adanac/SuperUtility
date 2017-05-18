@@ -1,0 +1,9 @@
+org.xdemo.superutil.j2se
+org.xdemo.superutil.j2se.filewatch
+org.xdemo.superutil.test
+org.xdemo.superutil.thirdparty
+org.xdemo.superutil.thirdparty.excel
+org.xdemo.superutil.thirdparty.freemarker
+org.xdemo.superutil.thirdparty.gson
+org.xdemo.superutil.thirdparty.http
+org.xdemo.superutil.thirdparty.mail
